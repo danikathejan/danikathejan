@@ -15,7 +15,6 @@
 - ⚡ Interested in **Power Systems, Power Electronics, Renewable Energy & Asset Management**
 - 🤖 Working with **AI/ML for engineering applications** (forecasting, fault diagnosis, digital twins)
 - 🔬 Currently exploring **Digital Twins for Power Transformers**
-- 📊 Enjoy combining **physics-based models** with **data-driven approaches**
 
 ---
 
@@ -83,8 +82,13 @@
 </table>
 
 ---
-
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="
+  <img src="https://github-readme-stats.vercel.app/api?username=danikathejan&show_icons=true&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danikathejan&theme=dark&hide_border=true" height="150" alt="streak graph" />
+</div>
+
+---
+
+⭐ *Always open to collaboration on engineering, AI, and energy-related projects.*
